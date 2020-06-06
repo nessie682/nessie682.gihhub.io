@@ -1,0 +1,13 @@
+<!DOCUTYPE html> 
+<html>
+
+<body>
+
+Hello! 
+
+My name is Lucky. I'm a Computer Science and Engineering Major. 
+
+</body>
+
+
+</html> 
